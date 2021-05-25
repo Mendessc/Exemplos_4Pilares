@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Polimorfismo_Overload/1.0.0": {
+        "runtime": {
+          "Polimorfismo_Overload.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfismo_Overload/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

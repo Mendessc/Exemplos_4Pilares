@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\ref\Polimorfismo_Overload.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\bin\Debug\net5.0\Polimorfismo_Overload.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\ref\Polimorfismo_Overload.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Polimorfismo_Overload\obj\Debug\net5.0\Polimorfismo_Overload.genruntimeconfig.cache
