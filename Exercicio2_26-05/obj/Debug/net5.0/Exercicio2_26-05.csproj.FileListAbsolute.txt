@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\ref\Exercicio2_26-05.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\bin\Debug\net5.0\Exercicio2_26-05.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\ref\Exercicio2_26-05.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio2_26-05\obj\Debug\net5.0\Exercicio2_26-05.genruntimeconfig.cache
