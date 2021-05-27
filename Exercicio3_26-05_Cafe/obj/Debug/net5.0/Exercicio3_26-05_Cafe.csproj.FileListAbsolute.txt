@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\ref\Exercicio3_26-05_Cafe.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\bin\Debug\net5.0\Exercicio3_26-05_Cafe.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\ref\Exercicio3_26-05_Cafe.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pilares_Orientacao\Exercicio3_26-05_Cafe\obj\Debug\net5.0\Exercicio3_26-05_Cafe.genruntimeconfig.cache
